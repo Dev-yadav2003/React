@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import RestorentCard from "./RestorentCard";
-import ShimmerUi from "./Shimmer";
+import ShimmerUi from "./shimmer";
 import { Link } from "react-router-dom";
 import useOnlineStatus from "../Utils/useOnlineStatus";
 import useRestorentList from "../Utils/useRestorentList";
